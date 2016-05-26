@@ -1,7 +1,0 @@
-package mypackage;
-
-public class MyClass {
-	public String getGreating() {
-		return "hello";
-	}
-}

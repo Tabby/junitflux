@@ -5,8 +5,7 @@ JUnit Flux is an Eclipse plugin that will execute related JUnit tests automatica
 These conventions allow JUnit Flux to find relevant unit tests very quickly, thus providing you with immediate feedback on your code change. JUnit Flux will react on multiple file changes as well, like those resulting from automatic refactorings. Enjoy.
 
 ###Update site
-
-http://jooles.github.io/junitflux/
+https://tabby.github.io/junitflux/
 
 ###Manual Installation
 
